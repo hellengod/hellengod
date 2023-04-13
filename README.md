@@ -5,7 +5,7 @@
 - 📫 Contate-me no email: hellenbiangod@gmail.com
 ##
 <div align="center">
-  <a href="https://github.com/HellenBianchini">
+  <a href="https://github.com/hellengod">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HellenBianchini&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellenBianchini&layout=compact&langs_count=7&theme=aura"/>
 </div>
@@ -26,3 +26,4 @@
 "><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
 <a href="https://www.linkedin.com/in/hellen-bianchini-godinho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+  
