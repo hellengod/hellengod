@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Hellen Bianchini 
 ##
 - 💻 Sou estudante de Análise e desenvolvimento de sistemas
-- 📖 Atualmente estou estudando Java, PHP, React e banco de dados SQL
+- 📖 Atualmente estou estudando Java, Spring, React, PHP, MySQL, AWS, Oracle
 - 📫 Contate-me no email: hellenbiangod@gmail.com
 ##
 <div align="center">
