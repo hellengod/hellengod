@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Hellen Bianchini 
 ##
 - 💻 Sou estudante de Análise e desenvolvimento de sistemas
-- 📖 Atualmente estou estudando Java, Spring, React, PHP, MySQL, AWS, Oracle
+- 📖 Atualmente estou estudando Java, PHP, MySQL, Oracle
 - 📫 Contate-me no email: hellenbiangod@gmail.com
 ##
 <div align="center">
@@ -12,11 +12,8 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Hellen-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Hellen-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Hellen-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Hellen-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Hellen-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
 </div>
  
