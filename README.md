@@ -25,9 +25,8 @@
   <a href= "https://www.linkedin.com/in/hellen-bianchini-godinho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
 
-<div>
 ### 🗂️ Organização dos Meus Repositórios
-
+##
 | Código | Categoria            | Descrição |
 |--------|----------------------|-----------|
 | **PP** | Projetos Pessoais    | Projetos criados por minha própria iniciativa, normalmente explorando novos conceitos ou áreas de interesse pessoal. |
@@ -35,6 +34,5 @@
 | **CF** | Códigos de Faculdade | Códigos criados na faculdade, mas que não estão ligados diretamente a uma atividade acadêmica específica. |
 | **DT** | Desafios Técnicos    | Repositórios contendo desafios de código, testes técnicos ou problemas de lógica resolvidos, seja para prática pessoal, processos seletivos ou competições de programação. |
 
-</div>
   
   
