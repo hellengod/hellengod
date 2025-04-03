@@ -26,7 +26,7 @@
   </div>
 
 <div>
-###Categoria de Repositório
+### 🗂️ Organização dos Meus Repositórios
 
 | Código | Categoria            | Descrição |
 |--------|----------------------|-----------|
