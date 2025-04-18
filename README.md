@@ -9,12 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellengod&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Hellen-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Hellen-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Hellen-JS" height="30" width="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
-  <img align="center" alt="Hellen-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
  
   ##
   
