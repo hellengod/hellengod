@@ -1,9 +1,6 @@
 ### Olá! Eu sou a Hellen Bianchini 
 ##
-- 💻 Sou estudante de Análise e desenvolvimento de sistemas
-- 📖 Atualmente estou estudando Java, PHP, JavaScript, MySQL
-- 📫 Contate-me no email: hellenbiangod@gmail.com
-##
+
 <div align="center">
   <a href="https://github.com/hellengod">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellengod&layout=compact&langs_count=7&theme=aura"/>
