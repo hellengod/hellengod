@@ -27,38 +27,40 @@
 
 <hr>
 
-<!-- Organização dos repositórios -->
 <h3>🗂️ Organização dos Meus Repositórios</h3>
+
 <p>Abaixo está a estrutura que sigo para categorizar meus projetos no GitHub:</p>
 
-<table>
-  <thead>
+<div align="center">
+  <table>
     <tr>
-      <th>Código</th>
-      <th>Categoria</th>
-      <th>Descrição</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>PP</strong></td>
-      <td><strong>Projetos Pessoais</strong></td>
-      <td>Projetos criados por minha própria iniciativa, normalmente explorando novos conceitos ou áreas de interesse pessoal.</td>
-    </tr>
-    <tr>
-      <td><strong>ES</strong></td>
-      <td><strong>Estudos</strong></td>
-      <td>Códigos e exercícios feitos durante cursos ou tutoriais online, com foco no aprendizado e crescimento contínuo.</td>
+      <td>
+        <div style="border: 1px solid #c799ff; border-radius: 10px; padding: 15px; width: 300px;">
+          <strong>🔖 PP - Projetos Pessoais</strong><br>
+          <p>Projetos criados por iniciativa própria, explorando novos conceitos ou ideias de interesse pessoal.</p>
+        </div>
+      </td>
+      <td>
+        <div style="border: 1px solid #c799ff; border-radius: 10px; padding: 15px; width: 300px;">
+          <strong>📘 ES - Estudos</strong><br>
+          <p>Códigos e exercícios feitos durante cursos ou tutoriais, com foco no aprendizado contínuo.</p>
+        </div>
+      </td>
     </tr>
     <tr>
-      <td><strong>CF</strong></td>
-      <td><strong>Códigos de Faculdade</strong></td>
-      <td>Códigos criados na faculdade, mas que não estão ligados diretamente a uma atividade acadêmica específica.</td>
+      <td>
+        <div style="border: 1px solid #c799ff; border-radius: 10px; padding: 15px; width: 300px;">
+          <strong>🎓 CF - Códigos de Faculdade</strong><br>
+          <p>Códigos desenvolvidos na faculdade, não necessariamente ligados a uma atividade acadêmica específica.</p>
+        </div>
+      </td>
+      <td>
+        <div style="border: 1px solid #c799ff; border-radius: 10px; padding: 15px; width: 300px;">
+          <strong>🧠 DT - Desafios Técnicos</strong><br>
+          <p>Desafios de código, testes técnicos ou lógicas resolvidas para prática ou processos seletivos.</p>
+        </div>
+      </td>
     </tr>
-    <tr>
-      <td><strong>DT</strong></td>
-      <td><strong>Desafios Técnicos</strong></td>
-      <td>Repositórios contendo desafios de código, testes técnicos ou problemas de lógica resolvidos, seja para prática pessoal, processos seletivos ou competições de programação.</td>
-    </tr>
-  </tbody>
-</table>
+  </table>
+</div>
+
